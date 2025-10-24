@@ -1,15 +1,15 @@
 Hi 👋 My name is Andrew Karvelis
 ================================
 
-Software Developer
+Software Engineer
 ------------------
 
-I'm a 26 year old software developer with a strong passion for frontend development.
+I'm a 27 year old software developer with a strong passion for Software Engineering.
 
 *   🌍  I'm based in Sydney, AU
 *   🖥️  See my portfolio at [Andrew's E-Portfolio](https://andrew-karvelis.github.io/Eportfolio/)
 *   ✉️  You can contact me at [akarvelis.work@gmail.com](mailto:akarvelis.work@gmail.com)
-*   🧠  I'm learning TypeScript
+*   🧠  I'm currently embracing the power of AI in development
 
 ### Skills 
 <p align="left">
